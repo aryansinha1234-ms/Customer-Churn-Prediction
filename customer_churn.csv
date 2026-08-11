@@ -1,0 +1,23 @@
+```csv
+Gender,SeniorCitizen,tenure,MonthlyCharges,Contract,PaymentMethod,Churn
+Male,0,12,70.5,Month-to-month,Electronic check,Yes
+Female,1,24,85.2,One year,Credit card,No
+Male,0,5,55.3,Month-to-month,Electronic check,Yes
+Female,0,48,65.7,Two year,Bank transfer,No
+Male,1,8,90.1,Month-to-month,Mailed check,Yes
+Female,0,36,72.4,One year,Credit card,No
+Male,0,18,60.5,Month-to-month,Bank transfer,No
+Female,1,6,95.6,Month-to-month,Electronic check,Yes
+Male,0,60,68.9,Two year,Credit card,No
+Female,0,10,78.3,Month-to-month,Mailed check,Yes
+Male,1,30,88.5,One year,Bank transfer,No
+Female,0,15,62.1,Month-to-month,Electronic check,Yes
+Male,0,45,71.8,Two year,Credit card,No
+Female,1,4,92.7,Month-to-month,Electronic check,Yes
+Male,0,22,66.4,One year,Bank transfer,No
+Female,0,55,69.5,Two year,Credit card,No
+Male,1,7,87.9,Month-to-month,Mailed check,Yes
+Female,0,32,74.2,One year,Bank transfer,No
+Male,0,9,58.6,Month-to-month,Electronic check,Yes
+Female,1,40,82.3,Two year,Credit card,No
+```
